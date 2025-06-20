@@ -1,4 +1,4 @@
-X# 👋 Hi, I'm Venich!
+# 👋 Hi, I'm Venich!
 
 Welcome to my portfolio!  
 I'm studying Mechaincal Engineering Master's Degree
